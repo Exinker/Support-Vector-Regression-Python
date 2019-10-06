@@ -32,3 +32,4 @@ plt.xlabel('Position level')
 plt.ylabel('Salary')
 plt.show()
 
+# CEO is an outlier
